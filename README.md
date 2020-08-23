@@ -20,5 +20,5 @@
 
 <br>
 
-<img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=the-akira&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,contribs" />
-<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-akira&layout=compact&theme=tokyonight" />
+<img width="480px" align="center" src="https://github-readme-stats.vercel.app/api?username=the-akira&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,contribs" />
+<img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-akira&layout=compact&theme=tokyonight" />
