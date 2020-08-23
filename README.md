@@ -1,6 +1,6 @@
-### Welcome to my GitHub Profile!
+## Welcome to my GitHub Profile!
 
-<div align="center">
+<div align="left">
 <h3>Gabriel Felippe | 💻 Computer Scientist | 🌏 Santa Catarina, BR</h3>
 </div>
 
