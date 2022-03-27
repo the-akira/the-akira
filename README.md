@@ -7,5 +7,5 @@
 </div>
 
 <div align="center">
-<a href="https://akiradev.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/the-akira/master/assets/symmetry.png" /></a>
+<a href="https://akiradev.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/the-akira/master/assets/art.png" /></a>
 </div>
