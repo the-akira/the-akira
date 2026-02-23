@@ -1,3 +1,3 @@
 <div align="center">
-    <a href="https://akiradev.netlify.app/"><img src="/assets/geometry.png" /></a>
+    <a href="https://akiradev.netlify.app/"><img src="/assets/fractal.png" /></a>
 </div>
